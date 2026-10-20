@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Rentidge — Modern property management and rent payments.">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef4fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#rbg)"/>
+  <rect width="1280" height="6" y="314" fill="#4aa3e0"/>
+  <g font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    <g transform="translate(80,96)">
+      <circle cx="9" cy="-6" r="5" fill="#4aa3e0"/>
+      <text x="26" y="0" fill="#5b6b7a" font-size="19" letter-spacing="4" font-weight="600">PROPERTY MANAGEMENT, SIMPLIFIED</text>
+    </g>
+    <text x="78" y="200" font-size="96" font-weight="800">
+      <tspan fill="#14202b">Rent</tspan><tspan fill="#4aa3e0">idge</tspan>
+    </text>
+    <text x="80" y="250" fill="#2f3e4b" font-size="29">Rent collection that doesn't feel like a second job.</text>
+    <text x="80" y="290" fill="#6b7885" font-size="19">Online rent, autopay, maintenance requests, and books — all on autopilot.</text>
+  </g>
+  <g transform="translate(956,70)" font-family="ui-sans-serif, sans-serif">
+    <rect x="0" y="0" width="236" height="180" rx="18" fill="#ffffff" stroke="#e3ebf3" stroke-width="2"/>
+    <text x="20" y="32" fill="#8795a3" font-size="13" letter-spacing="2">THIS MONTH'S RENT · COLLECTED</text>
+    <text x="20" y="72" fill="#14202b" font-size="40" font-weight="800">$5,378</text>
+    <g font-size="13.5">
+      <rect x="20" y="92" width="196" height="26" rx="7" fill="#f4f8fc"/>
+      <text x="32" y="109" fill="#2f3e4b">88 Oak St · Unit 1</text>
+      <text x="204" y="109" fill="#2f8f5b" text-anchor="end" font-weight="700">Paid</text>
+      <rect x="20" y="124" width="196" height="26" rx="7" fill="#f4f8fc"/>
+      <text x="32" y="141" fill="#2f3e4b">412 Maple Ave · U2</text>
+      <text x="204" y="141" fill="#2f8f5b" text-anchor="end" font-weight="700">Paid</text>
+    </g>
+    <text x="20" y="170" fill="#9aa7b4" font-size="12">Powered by Stripe</text>
+  </g>
+</svg>
